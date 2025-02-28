@@ -1,4 +1,4 @@
-package Assignment_1.Assignment_1.src;
+package Assignment_1;
 import java.util.Scanner;
 
 class BankAccount {

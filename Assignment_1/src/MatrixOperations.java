@@ -1,4 +1,4 @@
-package Assignment_1;
+package Assignment_1.Assignment_1.src;
 import java.util.Scanner;
 
 public class MatrixOperations {
